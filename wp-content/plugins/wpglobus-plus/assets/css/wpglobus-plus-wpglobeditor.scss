@@ -1,0 +1,24 @@
+.wpglobus-wp-admin  {
+	.column-status {
+		width: 7%;	
+	}	
+	.column-page {
+		width: 20%;	
+	}
+	.column-page .page {
+		width: 85%;
+	}	
+	.column-element {
+		width: 55%;	
+	}
+	.wpglobeditor-filter-icon {
+		display: inline-block;
+		background-color: #fff;
+		height: 16px;  
+		width: 16px;  
+		cursor: pointer;
+	}
+	.wpglobeditor-item.filtered .wpglobus-plus-wpglobeditor-filter{
+		background-color: #00f;
+	}
+}

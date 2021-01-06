@@ -1,0 +1,824 @@
+# Copyright (C) 2018 WPGlobus
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPGlobus Plus\n"
+"Report-Msgid-Bugs-To: support@wpglobus.com\n"
+"POT-Creation-Date: 2018-03-05 21:32-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gregory Karpinsky <gregory@tiv.net>\n"
+"Language-Team: The WPGlobus Team <support@wpglobus.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. translators: %1$s - plugin name (eg ACF); %2$s - plugin version (eg 1.2.3).
+#: includes/class-wpglobus-plus-module-checker.php:45
+msgctxt "List of modules"
+msgid ""
+"To use this module, you need to install and activate the %1$s plugin version "
+"%2$s or later."
+msgstr ""
+"Чтобы использовать этот модуль, Вам необходимо установить и активировать "
+"плагин %1$s %2$s или более поздней версии."
+
+#: includes/class-wpglobus-plus-module-checker.php:105
+msgctxt "List of modules"
+msgid "ACF Plus"
+msgstr "ACF плюс"
+
+#: includes/class-wpglobus-plus-module-checker.php:116
+msgctxt "List of modules"
+msgid "Multilingual WYSIWYG Advanced Custom Fields"
+msgstr "Поддержка многоязычных WYSIWYG-полей плагина Advanced Custom Fields"
+
+#: includes/class-wpglobus-plus-module-checker.php:121
+msgctxt "List of modules"
+msgid "Multilingual Advanced Custom Fields: Table Field"
+msgstr "Мультиязычный плагин Advanced Custom Fields: Поле 'Table'"
+
+#: includes/class-wpglobus-plus-module-checker.php:145
+msgctxt "List of modules"
+msgid "Publish"
+msgstr "Издатель"
+
+#: includes/class-wpglobus-plus-module-checker.php:146
+msgctxt "List of modules"
+msgid "Publish only the completed translations"
+msgstr "Публиковать только завершенные переводы"
+
+#: includes/class-wpglobus-plus-module-checker.php:168
+msgctxt "List of modules"
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: includes/class-wpglobus-plus-module-checker.php:169
+msgctxt "List of modules"
+msgid "Multilingual Taxonomies and CPTs"
+msgstr "Мультиязычные таксономии и Пользовательские типы записей"
+
+#: includes/class-wpglobus-plus-module-checker.php:232
+msgctxt "List of modules"
+msgid "Current PHP version"
+msgstr "Версия PHP"
+
+#: includes/class-wpglobus-plus-module-checker.php:235
+msgctxt "List of modules"
+msgid ""
+"WPGlobus requires PHP version 5.6 or higher to use the Taxonomies module."
+msgstr ""
+"Для работы с модулем Таксономии требуется PHP 5.6 или более поздняя версия."
+
+#: includes/class-wpglobus-plus-module-checker.php:250
+msgctxt "List of modules"
+msgid "Slug"
+msgstr "УРЛ"
+
+#: includes/class-wpglobus-plus-module-checker.php:251
+msgctxt "List of modules"
+msgid "Translate post/page URLs"
+msgstr "Переводы УРЛов для записей и страниц"
+
+#: includes/class-wpglobus-plus-module-checker.php:265
+msgctxt "List of modules"
+msgid "Switcher Menu"
+msgstr "Переключатель в меню"
+
+#: includes/class-wpglobus-plus-module-checker.php:266
+msgctxt "List of modules"
+msgid "Customize the Language Switcher Menu layout"
+msgstr "Стиль переключателя языков в меню"
+
+#: includes/class-wpglobus-plus-module-checker.php:292
+msgctxt "List of modules"
+msgid "Menu Settings"
+msgstr "Настройки меню"
+
+#: includes/class-wpglobus-plus-module-checker.php:293
+msgctxt "List of modules"
+msgid "Associate different menus with different languages"
+msgstr "Привязка меню к языкам"
+
+#: includes/class-wpglobus-plus-module-checker.php:315
+msgctxt "List of modules"
+msgid "Editor"
+msgstr "Редактор"
+
+#: includes/class-wpglobus-plus-module-checker.php:316
+msgctxt "List of modules"
+msgid "Universal Multilingual Editor"
+msgstr "Универсальный мультиязычный редактор"
+
+#: includes/class-wpglobus-plus-module-checker.php:361
+msgctxt "List of modules"
+msgid "TinyMCE"
+msgstr "TinyMCE"
+
+#: includes/class-wpglobus-plus-module-checker.php:362
+msgctxt "List of modules"
+msgid "WYSIWYG Editor"
+msgstr "Редактор WYSIWYG"
+
+#: includes/class-wpglobus-plus-module-checker.php:386
+msgctxt "List of modules"
+msgid "TablePress"
+msgstr "TablePress"
+
+#: includes/class-wpglobus-plus-module-checker.php:389
+msgctxt "List of modules"
+msgid "Multilingual TablePress"
+msgstr "Многоязычный TablePress"
+
+#: includes/class-wpglobus-plus-module-checker.php:429
+msgctxt "List of modules"
+msgid "Yoast SEO Plus"
+msgstr "Yoast SEO Плюс"
+
+#: includes/class-wpglobus-plus-module-checker.php:440
+msgctxt "List of modules"
+msgid "Multilingual Focus Keywords and Page Analysis"
+msgstr "Многоязычные ключевые слова и SEO-анализ страницы"
+
+#: includes/class-wpglobus-plus-module-checker.php:444
+msgctxt "List of modules"
+msgid "Yoast SEO Premium support is in %1sBeta stage%2s"
+msgstr "Поддержка Yoast SEO Premium в %1sстадии Бета%2s"
+
+#: includes/module-acf/class-wpglobus-plus-acf.php:163
+msgid ""
+"Load the page in the %sBuilder mode%s to work with a multilingual table."
+msgstr ""
+"Для работы с мультиязычной таблицей необходимо перезагрузить страницу в "
+"режиме %sБилдер%s."
+
+#: includes/module-acf/class-wpglobus-plus-acf.php:165
+msgid ""
+"This table already has multilingual data. To preserve it, reload the page in "
+"the %sBuilder mode%s."
+msgstr ""
+"Эта таблица содержит мультиязычные данные. Чтобы их сохранить, необходимо "
+"перезагрузить страницу в режиме %sБилдер%s."
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:105,
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:124,
+#: includes/publish/class-wpglobus-plus-publish.php:493,
+#: includes/publish/class-wpglobus-plus-publish2.php:656
+msgid "Status"
+msgstr "Статус"
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:109,
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:128
+msgid "Page"
+msgstr "Страница"
+
+#. translators: placeholders for 'id', 'name'
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:116
+msgid "%1$s or %2$s of the HTML element"
+msgstr "%1$s или %2$s HTML элемента страницы"
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:122,
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:141
+msgid "Action"
+msgstr "Действие"
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:254,
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:239
+msgid "Remove"
+msgstr "Удалить"
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:329,
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:315
+msgid "Add"
+msgstr "Добавить"
+
+#. translators: %1 - id, %2 - name, %3 - Page.
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:352
+msgid ""
+"To find the element's %1$s or %2$s, inspect it in the browser console on the "
+"page specified in the parameter %3$s of the table."
+msgstr ""
+"Для получения %1$s или %2$s элемента используйте консоль браузера на "
+"странице, которая указана в параметре %3$s таблицы."
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:358
+msgid "Usually, it is the Post Edit page (post.php) or the Settings page."
+msgstr ""
+"Обычно это страница редактирования поста (post.php) или страница настроек."
+
+#. translators: %1 - wpml-config.xml.
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:361
+msgid ""
+"If your active theme has a configuration file %1$s and has some fields in "
+"the admin area that you need to translate, then you can get hints from that "
+"file."
+msgstr ""
+"Если ваша используемая тема имеет файл конфигурации %1$s и создаёт в админке "
+"поля, которые необходимо сделать многоязычными, то его можно использовать в "
+"качестве подсказки."
+
+#. translators: %1 - admin-texts, %2 - custom-fields.
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:366
+msgid "Look for the %1$s and %2$s sections in the configuration file "
+msgstr "Смотрите элементы %1$s и %2$s в файле конфигурации "
+
+#. translators: %1 - WPGlobus, %2 - URL.
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:371
+msgid ""
+"on the %1$s settings page, use %2$sthis link%3$s to view the configuration "
+"file if your theme has it."
+msgstr ""
+"на странице настроек %1$s, используйте эту %2$sссылку%3$s чтобы простмотреть "
+"файл конфигурации."
+
+#: includes/module-editor/wpglobus-plus-wpglobeditor.php:223,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1752,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1772,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:1277
+msgid "General"
+msgstr "Основные"
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:336,
+#: includes/wpglobus-plus-main.php:263
+msgid "WPGlobus Menu Settings"
+msgstr "WPGlobus: Настройки меню"
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:377
+msgid ""
+"Your theme does not natively support menus or does not register any Theme "
+"Location."
+msgstr ""
+"Ваша тема не поддерживает произвольные меню или не определяет области для их "
+"показа."
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:412
+msgid ""
+"With WPGlobus Plus, you can associate different menus with each language. "
+"Choose which menu should be displayed at this Theme Location - by clicking "
+"on the table cells."
+msgstr ""
+"WPGlobus Plus позволяет выполнить привязку меню к языкам. Выберите, какое "
+"меню должно быть показано в этой Области Темы, нажимая на соответствующие "
+"ячейки таблицы."
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:445
+msgid "Click to select"
+msgstr "Нажмите, чтобы выбрать"
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:533
+msgid "You need to assign a menu for this Theme Location."
+msgstr "Вам необходимо выбрать меню для этой Области Темы."
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:77,
+#: includes/wpglobus-plus-main.php:223
+msgid "Language Selector Menu Style"
+msgstr "Стиль меню выбора языка"
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:80,
+#: includes/wpglobus-plus-main.php:227
+msgid "Drop-down languages menu or Flat (in one line)"
+msgstr "Показать список языков в виде выпадающего меню или в одну строку"
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:82,
+#: includes/wpglobus-plus-main.php:229
+msgid "Do not change"
+msgstr "Ничего не менять"
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:90,
+#: includes/wpglobus-plus-main.php:230
+msgid "Drop-down (vertical)"
+msgstr "Выпадающее меню"
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:91,
+#: includes/wpglobus-plus-main.php:231
+msgid "Flat (horizontal)"
+msgstr "В одну строку"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:572,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:575,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:592,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:595,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:600,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:603,
+#: includes/wpglobus-plus-main.php:1026
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:938,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:958,
+#: includes/module-taxonomies/sections/general.php:34
+msgid "%s slug"
+msgstr "Ярлык %s"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:977,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:997,
+#: includes/module-taxonomies/sections/general.php:73
+msgid "Post Type label:"
+msgstr "Тип записи: метка"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:984,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1004,
+#: includes/module-taxonomies/sections/general.php:80
+msgid "Post Type name:"
+msgstr "Тип записи: название"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1024,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1044,
+#: includes/module-taxonomies/sections/general.php:120
+msgid ""
+"To edit the slug for the default language, please use the Custom Rewrite "
+"Slug parameter in the settings of the plugin that created this Custom Post "
+"Type."
+msgstr ""
+"Для редактирования ярлыка для языка по умолчанию используйте параметр Custom "
+"Rewrite Slug в настройках плагина, с помощью которого был создан этот "
+"Пользовательский Тип Записи."
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1100,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1312,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1120,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1332,
+#: includes/module-taxonomies/sections/debug.php:19,
+#: includes/module-taxonomies/sections/general.php:206
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1111,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1131,
+#: includes/module-taxonomies/sections/general.php:217
+msgid ""
+"To edit the slug for &#8220;%s&#8221 in the default language, please visit "
+"the Settings->Permalinks page."
+msgstr ""
+"Чтобы изменить ярлык &#8220;%s&#8221 для языка по умолчанию перейдите на "
+"страницу Настройки->Постоянные ссылки."
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1181,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1201,
+#: includes/module-taxonomies/sections/general.php:297
+msgid "Terms of %s (%d items total) :"
+msgstr "Элементы %s (всего %d) :"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1189,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1209,
+#: includes/module-taxonomies/sections/general.php:305
+msgid "Hide empty terms."
+msgstr "Скрыть пустые элементы."
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1288,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1308,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:980
+msgid "Key: %s"
+msgstr "Ключ: %s"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1293,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1313,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:985
+msgid "Not found in the options table."
+msgstr "Не найден в таблице настроек."
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1327,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1347,
+#: includes/module-taxonomies/sections/debug.php:34
+msgid "Post type"
+msgstr "Тип записи"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1358,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1378,
+#: includes/module-taxonomies/sections/rewrite_rules.php:23
+msgid "Module options is empty."
+msgstr "Массив настроек модуля пуст."
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1756,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1776,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:1281
+msgid "Debug Mode"
+msgstr "Режим отладки"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1760,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1780,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:1285
+msgid "Options"
+msgstr "Настройки"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1764,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1784,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:1289
+msgid "Rewrite rules"
+msgstr "Правила перезаписи УРЛ"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:2545,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:2565,
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:2069
+msgid "Multilingual slug"
+msgstr "Многоязычный ярлык"
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:958
+msgid ""
+"Module couldn't find file '%1$s'. Please contact with us using %2$sWPGlobus "
+"Help Desk%3$s"
+msgstr ""
+"Файл '%1$s' не найден. Пожалуйста, обратитесь в %2$sСлужбу Поддержки%3$s"
+
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:82
+msgid ""
+"If TinyMCE: WYSIWYG Editor module is used on the \"post.php\" page then no "
+"additional settings are required. For other pages, however, we need to know, "
+"a click on which page element will save the TinyMCE content. For that, you "
+"have to specify the page and the name, id, or class of the element. We "
+"recommend using the name attribute."
+msgstr ""
+"Если TinyMCE: WYSIWYG Editor модуль подключается для использования на "
+"странице \"post.php\", то дополнительных настроек не требуется. Но для "
+"других страниц, поскольку заранее не известно, при нажатии на какой элемент "
+"страницы будет сохранён контент редактора TinyMCE, необходимо указать "
+"страницу и атрибут name, id или class этого элемента. Рекомендуем "
+"использовать атрибут name."
+
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:85
+msgid ""
+"Such page element could be the same for several TinyMCE editors on the same "
+"page."
+msgstr ""
+"Такой элемент может быть одинаковым для нескольких редакторов TinyMCE на "
+"одной странице."
+
+#. translators: placeholders for 'name', 'id', 'class'
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:135
+msgid "%1$s, #%2$s, or .%3$s of the HTML element"
+msgstr "%1$s, #%2$s или .%3$s HTML-элемента"
+
+#: includes/module-tinymce/class-wpglobus-plus-tinymce.php:207
+msgid "You need to set name, #id or .class to save content."
+msgstr "Необходимо задать имя, #id или .class для сохранения содержимого."
+
+#: includes/module-tinymce/class-wpglobus-plus-tinymce.php:209
+msgid "Click Red Globe to open TinyMCE settings page."
+msgstr ""
+"Нажмите на красную иконку глобуса, чтобы открыть страницу настроек TinyMCE."
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:68
+msgid "Sitemap for"
+msgstr "Карта сайта для"
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:82
+msgid "XML sitemaps that Yoast SEO generates are"
+msgstr "Файлы Sitemap XML, которые генерирует Yoast SEO,"
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:85
+msgctxt "yoastseo-settings"
+msgid "enabled"
+msgstr "включены"
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:89
+msgctxt "yoastseo-settings"
+msgid "disabled"
+msgstr "выключены"
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:91
+msgid "To enable, visit the %1$sYoast SEO Features page%2$s."
+msgstr ""
+"Для активации XML-карты сайта перейдите на страницу %1$sВозможности Yoast SEO"
+"%2$s."
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:97
+msgid ""
+"To use this module, you need to install and activate the Yoast SEO plugin "
+"version 2.3.4 or later."
+msgstr ""
+"Чтобы использовать этот модуль, необходимо установить и активировать плагин "
+"Yoast SEO 2.3.4 или более поздней версии."
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:44
+msgid "Languages status"
+msgstr "Статус языков"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:70
+msgid "No items found."
+msgstr "К сожалению, ничего не найдено."
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:193
+msgid "Single Action"
+msgstr "Единичное действие"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:197
+msgid "Bulk Actions"
+msgstr "Пакетные действия"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:244,
+#: includes/publish/class-wpglobus-plus-publish-extend.php:312
+msgid ""
+"WARNING: this operation is non-reversible. It is strongly recommended that "
+"you backup your database before proceeding."
+msgstr ""
+"Предупреждение: эта операция является необратимой. Настоятельно рекомендуем "
+"сделать резервную копию базы данных перед продолжением."
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:248,
+#: includes/publish/class-wpglobus-plus-publish-extend.php:341,
+#: includes/publish/class-wpglobus-plus-publish-extend.php:355
+msgid "Set draft status"
+msgstr "Перевод в статус «черновик»"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:252
+msgid ""
+"By default, when you publish a post, all languages get the \"published\" "
+"status. By using this tool, you can set specific language(s) to draft, for "
+"any post, page or custom post type."
+msgstr ""
+"Когда Вы публикуете новый контент, все переводы по умолчанию получают статус "
+"«опубликовано». Используя эту программу, можно перевести определенные языки "
+"в статус «черновик» - для всех записей, страниц или пользовательских типов "
+"записей (CPT)."
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:256
+msgid "1. Select a language and the post type:"
+msgstr "1. Выберите язык и тип записи:"
+
+#. translators: drop-down menu prompt
+#: includes/publish/class-wpglobus-plus-publish-extend.php:265
+msgid "select a language"
+msgstr "Выберите язык"
+
+#. translators: drop-down menu prompt
+#: includes/publish/class-wpglobus-plus-publish-extend.php:283
+msgid "select a post type"
+msgstr "Выберите тип записи"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:293
+msgid "2. Click the link below:"
+msgstr "2. Нажмите на ссылку:"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:330
+msgid "Incorrect post_id parameter."
+msgstr "Неверный параметр post_id."
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:335
+msgid "No post_id parameter."
+msgstr "Отсутствует параметр post_id."
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:343
+msgid "for post ID"
+msgstr "для ID записи"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:347
+msgid ""
+"By default, when you publish a post, all languages get the \"published\" "
+"status. By using this tool, you can set specific language(s) to draft, for "
+"the post by specifying `post_id`."
+msgstr ""
+"По умолчанию, когда вы публикуете запись, все языки получают статус "
+"\"опубликовано\". С помощью этого инструмента вы можете установить "
+"определенные языки в статус \"черновик\", указав параметр `post_id`."
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:396
+msgid "Select all languages"
+msgstr "Выбрать все языки"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:398
+msgid "Delete all languages"
+msgstr "Удалить все языки"
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:400
+msgid "Start processing"
+msgstr "Запустить процесс"
+
+#: includes/publish/class-wpglobus-plus-publish.php:416,
+#: includes/publish/class-wpglobus-plus-publish2.php:552
+msgid "This post has been marked as Draft."
+msgstr "Эта запись была отмечена как Черновик."
+
+#: includes/publish/class-wpglobus-plus-publish.php:418,
+#: includes/publish/class-wpglobus-plus-publish2.php:554
+msgid "This post is available in the main language (%s) only."
+msgstr "Эта запись доступна только на основном языке (%s)."
+
+#: includes/publish/class-wpglobus-plus-publish.php:425,
+#: includes/publish/class-wpglobus-plus-publish2.php:561
+msgid "Please, visit later..."
+msgstr "Пожалуйста, попробуйте позже!"
+
+#: includes/publish/class-wpglobus-plus-publish.php:609,
+#: includes/publish/class-wpglobus-plus-publish2.php:991,
+#: includes/publish/class-wpglobus-plus-publish2.php:1008,
+#: includes/publish/class-wpglobus-plus-publish2.php:1125
+msgid "Set Draft"
+msgstr "Перевод в статус «черновик»"
+
+#: includes/publish/class-wpglobus-plus-publish.php:617,
+#: includes/publish/class-wpglobus-plus-publish2.php:1016
+msgid "URL format"
+msgstr "Формат URL-адреса"
+
+#: includes/publish/class-wpglobus-plus-publish.php:626,
+#: includes/publish/class-wpglobus-plus-publish2.php:1026
+msgid "Unknown language"
+msgstr "Неизвестный язык"
+
+#: includes/publish/class-wpglobus-plus-publish.php:635,
+#: includes/publish/class-wpglobus-plus-publish2.php:1047
+msgid "Disabled post type"
+msgstr "Этот тип записи в данный момент отключен в настройках."
+
+#: includes/publish/class-wpglobus-plus-publish.php:645,
+#: includes/publish/class-wpglobus-plus-publish2.php:1058
+msgid ""
+"Setting as \"draft\" all records with post type \"%1$s\" for language \"%2$s"
+"\""
+msgstr ""
+"Установка статуса «черновик» для записей с типом «%1$s» на для языке «%2$s»"
+
+#: includes/publish/class-wpglobus-plus-publish.php:678
+msgid "Successfully set to Draft"
+msgstr "Установлено в статус «черновик»"
+
+#: includes/publish/class-wpglobus-plus-publish.php:680
+msgid "Setting to Draft FAILED!"
+msgstr "Установка в статус «черновик» НЕ ВЫПОЛНЕНА!"
+
+#: includes/publish/class-wpglobus-plus-publish.php:685,
+#: includes/publish/class-wpglobus-plus-publish2.php:812
+msgid "Already set to \"%s\". Not changing."
+msgstr "Запись находится в статусе «%s». Не меняю."
+
+#: includes/publish/class-wpglobus-plus-publish.php:694,
+#: includes/publish/class-wpglobus-plus-publish2.php:1100
+msgid "No records found."
+msgstr "Записи этого типа не найдены."
+
+#: includes/publish/class-wpglobus-plus-publish.php:697,
+#: includes/publish/class-wpglobus-plus-publish2.php:1103,
+#: includes/publish/class-wpglobus-plus-publish2.php:1220
+msgid "Done."
+msgstr "Готово."
+
+#: includes/publish/class-wpglobus-plus-publish.php:704,
+#: includes/publish/class-wpglobus-plus-publish2.php:1273
+msgid "Back to WPGlobus Plus"
+msgstr "Вернуться к WPGlobus Плюс"
+
+#: includes/publish/class-wpglobus-plus-publish2.php:643
+msgid "Bulk actions"
+msgstr "Пакетные действия"
+
+#: includes/publish/class-wpglobus-plus-publish2.php:806
+msgid "Successfully set to \"%s\""
+msgstr "Установлено в \"%s\""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:808
+msgid "Setting to \"%s\" FAILED!"
+msgstr "Не удалось установить в \"%s\"!"
+
+#: includes/publish/class-wpglobus-plus-publish2.php:985
+msgid "Parameter `action` was not set."
+msgstr "Параметр `action` не был установлен"
+
+#: includes/publish/class-wpglobus-plus-publish2.php:987
+msgid "Parameter `action` is incorrect."
+msgstr "Неверный параметр `action`"
+
+#: includes/publish/class-wpglobus-plus-publish2.php:1147
+msgid "Setting as \"draft\" for post ID \"%1$s\" for language(s) \"%2$s\""
+msgstr ""
+"Установка статуса \"черновик\" для записи с post ID \"%1$s\" для языка(-ов) "
+"\"%2$s\""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:1190
+msgid "Updated."
+msgstr "Обновлено."
+
+#: includes/publish/class-wpglobus-plus-publish2.php:1207
+msgid "Empty array of languages."
+msgstr "Пустой список языков."
+
+#: includes/publish/class-wpglobus-plus-publish2.php:1213
+msgid "No record found."
+msgstr "Записи не найдены."
+
+#: includes/wpglobus-plus-main.php:254
+msgid "Go to WPGlobus Menu Settings page"
+msgstr "Перейти к настройкам меню WPGlobus"
+
+#: includes/wpglobus-plus-main.php:284
+msgid "Go to WPGlobus Plus Options page"
+msgstr "Перейдите к странице настроек WPGlobus Плюс"
+
+#: includes/wpglobus-plus-main.php:293
+msgid "WPGlobus Plus Options"
+msgstr "Настройки WPGlobus Плюс"
+
+#: includes/wpglobus-plus-main.php:548, wpglobus-plus.php:11
+msgid "WPGlobus Plus"
+msgstr "WPGlobus Плюс"
+
+#: includes/wpglobus-plus-main.php:604
+msgctxt "Part of the WPGlobus Plus"
+msgid "Plus"
+msgstr "Плюс"
+
+#: includes/wpglobus-plus-main.php:637
+msgid "Active Modules"
+msgstr "Активные модули"
+
+#: includes/wpglobus-plus-main.php:640
+msgid "Uncheck the modules you are not planning to use:"
+msgstr "Отметьте только те модули, которые Вы планируете использовать:"
+
+#: includes/wpglobus-plus-main.php:709
+msgid "Please, activate module Publish"
+msgstr "Пожалуйста, активируйте модуль \"Издатель\""
+
+#: includes/wpglobus-plus-main.php:737
+msgid "Please, activate module WPGlobus Editor"
+msgstr "Пожалуйста, активируйте модуль WPGlobus Редактор"
+
+#: includes/wpglobus-plus-main.php:763
+msgid "Please, activate module TinyMCE: WYSIWYG Editor"
+msgstr "Пожалуйста, активируйте модуль TinyMCE: WYSIWYG редактор"
+
+#: includes/wpglobus-plus-main.php:781
+msgid "Please, activate module Taxonomies: Multilingual Taxonomies and CPTs"
+msgstr ""
+"Пожалуйста, активируйте модуль Таксономии: Многоязычные таксономии и "
+"Пользовательские типы записей"
+
+#: includes/wpglobus-plus-main.php:783
+msgid ""
+"With the “Taxonomies” module, you will be able to translate slugs of the "
+"categories, tags, and terms, including those coming with Custom Post Types."
+msgstr ""
+"При помощи модуля “Таксономии” вы сможете перевести УРЛы категорий, меток и "
+"терминов, включая те, что связаны с Пользовательскими типами записей."
+
+#: includes/wpglobus-plus-main.php:787
+msgid ""
+"This module is currently at a beta-testing stage. Please contact us for more "
+"details."
+msgstr ""
+"Этот модуль находится в стадии разработки. Чтобы узнать подробности, "
+"свяжитесь с нами."
+
+#: includes/wpglobus-plus-main.php:811
+msgid ""
+"Please, activate module Yoast SEO Plus: Multilingual Focus Keywords and Page "
+"Analysis"
+msgstr "Пожалуйста, активируйте модуль Yoast SEO Плюс"
+
+#: includes/wpglobus-plus-main.php:976
+msgid "Modules"
+msgstr "Модули"
+
+#: includes/wpglobus-plus-main.php:982
+msgid "Editor Settings"
+msgstr "Настройки редактора"
+
+#: includes/wpglobus-plus-main.php:993
+msgid "TinyMCE Settings"
+msgstr "Настройки TinyMCE"
+
+#: includes/wpglobus-plus-main.php:1004
+msgid "Publish"
+msgstr "Издатель"
+
+#: includes/wpglobus-plus-main.php:1015
+msgid "Menu"
+msgstr "Меню"
+
+#: includes/wpglobus-plus-main.php:1038
+msgid "Yoast SEO Plus"
+msgstr "Yoast SEO Плюс"
+
+#: wpglobus-plus.php:12
+msgid "https://wpglobus.com/product/wpglobus-plus/"
+msgstr "https://wpglobus.com/ru/product/wpglobus-plus/"
+
+#: wpglobus-plus.php:13
+msgid ""
+"Extend functionality of the <a href=\"https://wordpress.org/plugins/wpglobus/"
+"\">WPGlobus Multilingual Plugin</a>."
+msgstr ""
+"Расширение функциональности <a href=\"https://ru.wordpress.org/plugins/"
+"wpglobus/\">плагина WPGlobus</a>."
+
+#: wpglobus-plus.php:17
+msgid "WPGlobus"
+msgstr "WPGlobus"
+
+#: wpglobus-plus.php:18
+msgid "https://wpglobus.com/"
+msgstr "https://wpglobus.com/ru/"
+
+#. translators: %1$s - this plugin name. %2$s - the required plugin name.
+#: wpglobus-plus.php:198
+msgid "The %1$s will not function unless the core plugin, %2$s, is activated."
+msgstr "%1$s не будет работать, пока плагин %2$s не активирован."

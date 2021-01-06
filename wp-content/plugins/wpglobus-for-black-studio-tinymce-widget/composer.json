@@ -1,0 +1,9 @@
+{
+  "name": "wpglobus/wpglobus-for-black-studio-widget",
+  "type": "wordpress-plugin",
+  "description": "WPGlobus for Black Studio TinyMCE Widget",
+  "keywords": ["WPGlobus","globalization","wysiwyg widget","i18n","international","Black Studio TinyMCE Widget"],
+  "homepage": "https://github.com/WPGlobus/wpglobus-for-black-studio-tinymce-widget",  
+  "license": "GPL-3.0",
+  "require": {}
+}

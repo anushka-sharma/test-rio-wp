@@ -1,0 +1,625 @@
+# Copyright (C) 2020 WPGlobus Plus 1.3.11
+# This file is distributed under the same license as the WPGlobus Plus 1.3.11 package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPGlobus Plus 1.3.11\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: The WPGlobus Team <support@wpglobus.com>\n"
+"Report-Msgid-Bugs-To: support@wpglobus.com\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: %1$s - plugin name (eg ACF); %2$s - plugin version (eg 1.2.3).
+#: includes/class-wpglobus-plus-module-checker.php:45
+msgctxt "List of modules"
+msgid "To use this module, you need to install and activate the %1$s plugin version %2$s or later."
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:105
+msgctxt "List of modules"
+msgid "ACF Plus"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:116
+msgctxt "List of modules"
+msgid "Multilingual WYSIWYG Advanced Custom Fields"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:121
+msgctxt "List of modules"
+msgid "Multilingual Advanced Custom Fields: Table Field"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:145
+msgctxt "List of modules"
+msgid "Publish"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:146
+msgctxt "List of modules"
+msgid "Publish only the completed translations"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:168
+msgctxt "List of modules"
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:169
+msgctxt "List of modules"
+msgid "Multilingual Taxonomies and CPTs"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:232
+msgctxt "List of modules"
+msgid "Current PHP version"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:235
+msgctxt "List of modules"
+msgid "WPGlobus requires PHP version 5.6 or higher to use the Taxonomies module."
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:250
+msgctxt "List of modules"
+msgid "Slug"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:251
+msgctxt "List of modules"
+msgid "Translate post/page URLs"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:265
+msgctxt "List of modules"
+msgid "Switcher Menu"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:266
+msgctxt "List of modules"
+msgid "Customize the Language Switcher Menu layout"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:292
+msgctxt "List of modules"
+msgid "Menu Settings"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:293
+msgctxt "List of modules"
+msgid "Associate different menus with different languages"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:315
+msgctxt "List of modules"
+msgid "Editor"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:316
+msgctxt "List of modules"
+msgid "Universal Multilingual Editor"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:361
+msgctxt "List of modules"
+msgid "TinyMCE"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:362
+msgctxt "List of modules"
+msgid "WYSIWYG Editor"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:386
+msgctxt "List of modules"
+msgid "TablePress"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:389
+msgctxt "List of modules"
+msgid "Multilingual TablePress"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:429
+msgctxt "List of modules"
+msgid "Yoast SEO Plus"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:440
+msgctxt "List of modules"
+msgid "Multilingual Focus Keywords and Page Analysis"
+msgstr ""
+
+#: includes/class-wpglobus-plus-module-checker.php:444
+msgctxt "List of modules"
+msgid "Yoast SEO Premium support is in %1sBeta stage%2s"
+msgstr ""
+
+#: includes/module-acf/class-wpglobus-plus-acf.php:163
+msgid "Load the page in the %sBuilder mode%s to work with a multilingual table."
+msgstr ""
+
+#: includes/module-acf/class-wpglobus-plus-acf.php:165
+msgid "This table already has multilingual data. To preserve it, reload the page in the %sBuilder mode%s."
+msgstr ""
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:105, includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:124, includes/publish/class-wpglobus-plus-publish.php:493, includes/publish/class-wpglobus-plus-publish2.php:656
+msgid "Status"
+msgstr ""
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:109, includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:128
+msgid "Page"
+msgstr ""
+
+#. translators: placeholders for 'id', 'name'
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:116
+msgid "%1$s or %2$s of the HTML element"
+msgstr ""
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:122, includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:141
+msgid "Action"
+msgstr ""
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:254, includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:239
+msgid "Remove"
+msgstr ""
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:329, includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:315
+msgid "Add"
+msgstr ""
+
+#. translators: %1 - id, %2 - name, %3 - Page.
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:352
+msgid "To find the element's %1$s or %2$s, inspect it in the browser console on the page specified in the parameter %3$s of the table."
+msgstr ""
+
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:358
+msgid "Usually, it is the Post Edit page (post.php) or the Settings page."
+msgstr ""
+
+#. translators: %1 - wpml-config.xml.
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:361
+msgid "If your active theme has a configuration file %1$s and has some fields in the admin area that you need to translate, then you can get hints from that file."
+msgstr ""
+
+#. translators: %1 - admin-texts, %2 - custom-fields.
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:366
+msgid "Look for the %1$s and %2$s sections in the configuration file "
+msgstr ""
+
+#. translators: %1 - WPGlobus, %2 - URL.
+#: includes/module-editor/class-wpglobus-plus-wpglobeditor.php:371
+msgid "on the %1$s settings page, use %2$sthis link%3$s to view the configuration file if your theme has it."
+msgstr ""
+
+#: includes/module-editor/wpglobus-plus-wpglobeditor.php:223, includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1752, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1772, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:1277
+msgid "General"
+msgstr ""
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:336, includes/wpglobus-plus-main.php:263
+msgid "WPGlobus Menu Settings"
+msgstr ""
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:377
+msgid "Your theme does not natively support menus or does not register any Theme Location."
+msgstr ""
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:412
+msgid "With WPGlobus Plus, you can associate different menus with each language. Choose which menu should be displayed at this Theme Location - by clicking on the table cells."
+msgstr ""
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:445
+msgid "Click to select"
+msgstr ""
+
+#: includes/module-menu-settings/class-wpglobus-plus-menu-settings.php:533
+msgid "You need to assign a menu for this Theme Location."
+msgstr ""
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:77, includes/wpglobus-plus-main.php:223
+msgid "Language Selector Menu Style"
+msgstr ""
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:80, includes/wpglobus-plus-main.php:227
+msgid "Drop-down languages menu or Flat (in one line)"
+msgstr ""
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:82, includes/wpglobus-plus-main.php:229
+msgid "Do not change"
+msgstr ""
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:90, includes/wpglobus-plus-main.php:230
+msgid "Drop-down (vertical)"
+msgstr ""
+
+#: includes/module-menu/class-wpglobus-plus-menu.php:91, includes/wpglobus-plus-main.php:231
+msgid "Flat (horizontal)"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:572, includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:575, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:592, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:595, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:600, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:603, includes/wpglobus-plus-main.php:1026
+msgid "Taxonomies"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:938, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:958, includes/module-taxonomies/sections/general.php:34
+msgid "%s slug"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:977, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:997, includes/module-taxonomies/sections/general.php:73
+msgid "Post Type label:"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:984, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1004, includes/module-taxonomies/sections/general.php:80
+msgid "Post Type name:"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1024, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1044, includes/module-taxonomies/sections/general.php:120
+msgid "To edit the slug for the default language, please use the Custom Rewrite Slug parameter in the settings of the plugin that created this Custom Post Type."
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1100, includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1312, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1120, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1332, includes/module-taxonomies/sections/debug.php:19, includes/module-taxonomies/sections/general.php:206
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1111, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1131, includes/module-taxonomies/sections/general.php:217
+msgid "To edit the slug for &#8220;%s&#8221 in the default language, please visit the Settings->Permalinks page."
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1181, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1201, includes/module-taxonomies/sections/general.php:297
+msgid "Terms of %s (%d items total) :"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1189, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1209, includes/module-taxonomies/sections/general.php:305
+msgid "Hide empty terms."
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1288, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1308, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:980
+msgid "Key: %s"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1293, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1313, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:985
+msgid "Not found in the options table."
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1327, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1347, includes/module-taxonomies/sections/debug.php:34
+msgid "Post type"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1358, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1378, includes/module-taxonomies/sections/rewrite_rules.php:23
+msgid "Module options is empty."
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1756, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1776, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:1281
+msgid "Debug Mode"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1760, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1780, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:1285
+msgid "Options"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:1764, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:1784, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:1289
+msgid "Rewrite rules"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-7.php:2545, includes/module-taxonomies/class-wpglobus-plus-taxonomies-8.php:2565, includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:2069
+msgid "Multilingual slug"
+msgstr ""
+
+#: includes/module-taxonomies/class-wpglobus-plus-taxonomies-9.php:958
+msgid "Module couldn't find file '%1$s'. Please contact with us using %2$sWPGlobus Help Desk%3$s"
+msgstr ""
+
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:82
+msgid "If TinyMCE: WYSIWYG Editor module is used on the \"post.php\" page then no additional settings are required. For other pages, however, we need to know, a click on which page element will save the TinyMCE content. For that, you have to specify the page and the name, id, or class of the element. We recommend using the name attribute."
+msgstr ""
+
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:85
+msgid "Such page element could be the same for several TinyMCE editors on the same page."
+msgstr ""
+
+#. translators: placeholders for 'name', 'id', 'class'
+#: includes/module-tinymce/class-wpglobus-plus-tinymce-table.php:135
+msgid "%1$s, #%2$s, or .%3$s of the HTML element"
+msgstr ""
+
+#: includes/module-tinymce/class-wpglobus-plus-tinymce.php:207
+msgid "You need to set name, #id or .class to save content."
+msgstr ""
+
+#: includes/module-tinymce/class-wpglobus-plus-tinymce.php:209
+msgid "Click Red Globe to open TinyMCE settings page."
+msgstr ""
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:68
+msgid "Sitemap for"
+msgstr ""
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:82
+msgid "XML sitemaps that Yoast SEO generates are"
+msgstr ""
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:85
+msgctxt "yoastseo-settings"
+msgid "enabled"
+msgstr ""
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:89
+msgctxt "yoastseo-settings"
+msgid "disabled"
+msgstr ""
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:91
+msgid "To enable, visit the %1$sYoast SEO Features page%2$s."
+msgstr ""
+
+#: includes/module-wpseo/class-wpglobus-plus-yoastseo-settings.php:97
+msgid "To use this module, you need to install and activate the Yoast SEO plugin version 2.3.4 or later."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:44
+msgid "Languages status"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:70
+msgid "No items found."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:193
+msgid "Single Action"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:197
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:244, includes/publish/class-wpglobus-plus-publish-extend.php:312
+msgid "WARNING: this operation is non-reversible. It is strongly recommended that you backup your database before proceeding."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:248, includes/publish/class-wpglobus-plus-publish-extend.php:341, includes/publish/class-wpglobus-plus-publish-extend.php:355
+msgid "Set draft status"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:252
+msgid "By default, when you publish a post, all languages get the \"published\" status. By using this tool, you can set specific language(s) to draft, for any post, page or custom post type."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:256
+msgid "1. Select a language and the post type:"
+msgstr ""
+
+#. translators: drop-down menu prompt
+#: includes/publish/class-wpglobus-plus-publish-extend.php:265
+msgid "select a language"
+msgstr ""
+
+#. translators: drop-down menu prompt
+#: includes/publish/class-wpglobus-plus-publish-extend.php:283
+msgid "select a post type"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:293
+msgid "2. Click the link below:"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:330
+msgid "Incorrect post_id parameter."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:335
+msgid "No post_id parameter."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:343
+msgid "for post ID"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:347
+msgid "By default, when you publish a post, all languages get the \"published\" status. By using this tool, you can set specific language(s) to draft, for the post by specifying `post_id`."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:396
+msgid "Select all languages"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:398
+msgid "Delete all languages"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish-extend.php:400
+msgid "Start processing"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:416, includes/publish/class-wpglobus-plus-publish2.php:552
+msgid "This post has been marked as Draft."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:418, includes/publish/class-wpglobus-plus-publish2.php:554
+msgid "This post is available in the main language (%s) only."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:425, includes/publish/class-wpglobus-plus-publish2.php:561
+msgid "Please, visit later..."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:609, includes/publish/class-wpglobus-plus-publish2.php:991, includes/publish/class-wpglobus-plus-publish2.php:1008, includes/publish/class-wpglobus-plus-publish2.php:1125
+msgid "Set Draft"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:617, includes/publish/class-wpglobus-plus-publish2.php:1016
+msgid "URL format"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:626, includes/publish/class-wpglobus-plus-publish2.php:1026
+msgid "Unknown language"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:635, includes/publish/class-wpglobus-plus-publish2.php:1047
+msgid "Disabled post type"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:645, includes/publish/class-wpglobus-plus-publish2.php:1058
+msgid "Setting as \"draft\" all records with post type \"%1$s\" for language \"%2$s\""
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:678
+msgid "Successfully set to Draft"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:680
+msgid "Setting to Draft FAILED!"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:685, includes/publish/class-wpglobus-plus-publish2.php:812
+msgid "Already set to \"%s\". Not changing."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:694, includes/publish/class-wpglobus-plus-publish2.php:1100
+msgid "No records found."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:697, includes/publish/class-wpglobus-plus-publish2.php:1103, includes/publish/class-wpglobus-plus-publish2.php:1220
+msgid "Done."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish.php:704, includes/publish/class-wpglobus-plus-publish2.php:1273
+msgid "Back to WPGlobus Plus"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:643
+msgid "Bulk actions"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:806
+msgid "Successfully set to \"%s\""
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:808
+msgid "Setting to \"%s\" FAILED!"
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:985
+msgid "Parameter `action` was not set."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:987
+msgid "Parameter `action` is incorrect."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:1147
+msgid "Setting as \"draft\" for post ID \"%1$s\" for language(s) \"%2$s\""
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:1190
+msgid "Updated."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:1207
+msgid "Empty array of languages."
+msgstr ""
+
+#: includes/publish/class-wpglobus-plus-publish2.php:1213
+msgid "No record found."
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:254
+msgid "Go to WPGlobus Menu Settings page"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:284
+msgid "Go to WPGlobus Plus Options page"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:293
+msgid "WPGlobus Plus Options"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:548, wpglobus-plus.php:11
+msgid "WPGlobus Plus"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:604
+msgctxt "Part of the WPGlobus Plus"
+msgid "Plus"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:637
+msgid "Active Modules"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:640
+msgid "Uncheck the modules you are not planning to use:"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:709
+msgid "Please, activate module Publish"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:737
+msgid "Please, activate module WPGlobus Editor"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:763
+msgid "Please, activate module TinyMCE: WYSIWYG Editor"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:781
+msgid "Please, activate module Taxonomies: Multilingual Taxonomies and CPTs"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:783
+msgid "With the “Taxonomies” module, you will be able to translate slugs of the categories, tags, and terms, including those coming with Custom Post Types."
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:787
+msgid "This module is currently at a beta-testing stage. Please contact us for more details."
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:811
+msgid "Please, activate module Yoast SEO Plus: Multilingual Focus Keywords and Page Analysis"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:976
+msgid "Modules"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:982
+msgid "Editor Settings"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:993
+msgid "TinyMCE Settings"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:1004
+msgid "Publish"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:1015
+msgid "Menu"
+msgstr ""
+
+#: includes/wpglobus-plus-main.php:1038
+msgid "Yoast SEO Plus"
+msgstr ""
+
+#: wpglobus-plus.php:12
+msgid "https://wpglobus.com/product/wpglobus-plus/"
+msgstr ""
+
+#: wpglobus-plus.php:13
+msgid "Extend functionality of the <a href=\"https://wordpress.org/plugins/wpglobus/\">WPGlobus Multilingual Plugin</a>."
+msgstr ""
+
+#: wpglobus-plus.php:17
+msgid "WPGlobus"
+msgstr ""
+
+#: wpglobus-plus.php:18
+msgid "https://wpglobus.com/"
+msgstr ""
+
+#. translators: %1$s - this plugin name. %2$s - the required plugin name.
+#: wpglobus-plus.php:198
+msgid "The %1$s will not function unless the core plugin, %2$s, is activated."
+msgstr ""
